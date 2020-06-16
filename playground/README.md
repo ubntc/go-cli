@@ -1,0 +1,1 @@
+Playground moved to [ubntc/go/playground](https://github.com/ubntc/go/tree/master/playground)
